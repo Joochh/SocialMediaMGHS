@@ -1,1 +1,1 @@
-# SocialMediaMGHS
+# social_media_management_system
